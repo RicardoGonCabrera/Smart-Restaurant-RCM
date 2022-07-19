@@ -1,1 +1,3 @@
 # Smart-Restaurant-RCM
+
+Software developed to solve the automation of ingredients, their stock and reserves. With the help of artificial intelligence, it also makes the predictions of which dish will be the most consumed in relation to the season, it can also predict the number of diners that will be present on the day, if it is a weekend or holiday or the season.It is structured in 3 parts, the artificial intelligence that will be in charge of making the predictions. The application, from which workers will be able to track orders, stock, dishes to prepare, etc... And the webServer that will contain the database and the functions needed by the application.
